@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiUrl: 'https://node-restserver-angular.vercel.app/'
+    apiUrl: 'https:/node-restserver-angular.vercel.app'
 };
 
 /*
